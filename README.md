@@ -39,7 +39,7 @@ curl -d "linkId=2783f200-cdc0-4dbb-a2ea-0d59d16edd24&text=JOIN&to=8220&id=2f4643
 #N/B The application has already been deployed in the below dev server ip: 3.122.233.128
 
 #response
-Dear customer, your xxxxxx account has been created successfully. Your one-time password is pZ8OC
+Dear customer, your xxxxxx account has been created successfully. Your one-time password is xxxxx
 ```
 
 ## Licensing
